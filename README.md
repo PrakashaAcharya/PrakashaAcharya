@@ -1,61 +1,103 @@
-<h1 align="center">Hi 👋, I'm Prakash Acharya</h1>
+<h1 align="center">Prakash Acharya</h1>
 
-<h3 align="center">Java Full Stack Developer</h3>
+<h3 align="center">Java Developer | Backend Developer</h3>
 
 <p align="center">
-A passionate developer who loves learning new technologies 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&center=true&vCenter=true&width=650&lines=Building+scalable+backend+applications+🚀;Java+Developer;Backend+Developer;Spring+Boot+Enthusiast;Always+learning+new+technologies"/>
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning Spring Boot, React and MySQL
+- 🎓 Computer Science and Engineering Graduate (2025)
+
+- 💼 Java Development Intern at JSpiders, Bengaluru
+
+- 🌱 Currently learning Spring Boot, REST APIs and Backend Development
 
 - 💻 Interested in Java Full Stack Development
 
-- 🎓 Internship Trainee
-
-- 📫 Email: yourmail@gmail.com
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin/
+- 🚀 Passionate about building efficient and scalable applications
 
 ---
 
-### 🚀 Languages and Tools
+## 🛠️ Technical Skills
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java"/>
+`Java` `SQL`
 
-<img src="https://skillicons.dev/icons?i=spring"/>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=html"/>
+`Spring Boot` `Spring Core` `Spring Data JPA` `Hibernate` `JDBC`
 
-<img src="https://skillicons.dev/icons?i=css"/>
+### Web
 
-<img src="https://skillicons.dev/icons?i=js"/>
+`HTML` `CSS` `JavaScript` `REST APIs`
 
-<img src="https://skillicons.dev/icons?i=react"/>
+### Database
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+`Oracle SQL` `MySQL`
 
-<img src="https://skillicons.dev/icons?i=git"/>
+### Tools
 
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+`Git` `GitHub` `Postman` `Swagger` `STS 4` `Eclipse`
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Project
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrakashaAcharya&show_icons=true)
+### Employee Management System
+
+✔️ CRUD Operations
+
+✔️ RESTful APIs
+
+✔️ Spring Boot
+
+✔️ Spring Data JPA
+
+✔️ MySQL Integration
+
+✔️ Exception Handling
+
+✔️ Layered Architecture
+
+✔️ Postman Testing
+
+✔️ Swagger Documentation
 
 ---
 
-### 🔥 Contribution Streak
+## 🎓 Education
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrakashaAcharya)
+**Canara Engineering College**
+
+B.E - Computer Science and Engineering
+
+CGPA: **8.55 / 10**
+
+---
+
+## 📜 Certifications
+
+🏆 HackerRank SQL Certification
+
+🏆 Web Development Internship Certification
+
+🏆 QSpiders Campus Connect - Java & Aptitude Training
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **prakashacharyabyn@gmail.com**
+
+🔗 LinkedIn: **https://www.linkedin.com/in/prakasha-acharya/**
+
+🔗 GitHub: **https://github.com/PrakashaAcharya**
+
+📍 Bengaluru, Karnataka
