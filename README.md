@@ -92,7 +92,7 @@ CGPA: **8.55 / 10**
 
 ---
 
- 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: **prakashacharyabyn@gmail.com**
 
